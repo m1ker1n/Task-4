@@ -1,0 +1,7 @@
+levelFreq=200
+frogMaxAmount=20
+frogLiveTime=30
+frogSpawnFreq=5
+stoneSpawnFreq=10
+pythonScoreCoef=20
+pythonStarvationTime=100
