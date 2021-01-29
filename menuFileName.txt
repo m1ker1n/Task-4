@@ -1,0 +1,21 @@
+MenuBegin
+	WindowBegin
+		[WindowSettings]
+		Rectangle = (0,500,500,700)
+		Color = (0,0,0)
+		ButtonBegin
+			[ButtonSettings]
+			Rectangle = (5,505,245,695)
+			Color = (255,255,255)
+			Name = StartGame
+			HighlightColor = (120,120,120)
+		ButtonEnd
+		ButtonBegin
+			[ButtonSettings]
+			Rectangle = (255,505,495,695)
+			Color = (255,255,255)
+			Name = Exit
+			HighlightColor = (120,120,120)
+		ButtonEnd
+	WindowEnd
+MenuEnd
